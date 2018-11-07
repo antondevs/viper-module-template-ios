@@ -1,1 +1,2 @@
-# viper-module-template-ios
+# Viper Module template for XCode
+
