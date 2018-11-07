@@ -8,4 +8,4 @@ sudo cp -a "Viper Module Swift.xctemplate" "/Applications/Xcode.app/Contents/Dev
 
 Create new module with XCode wizard. Enter module name (Main, Welcome, etc.)
 
-[[https://raw.githubusercontent.com/antondevs/viper-module-template-ios/master/viper-module.png|alt=Module]]
+![alt text](https://raw.githubusercontent.com/antondevs/viper-module-template-ios/master/viper-module.png)
